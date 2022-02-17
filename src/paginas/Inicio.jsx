@@ -2,7 +2,7 @@ import React from 'react'
 
 const Inicio = () => {
   return (
-    <h1>desde inicio</h1>
+    <h1>desde inicio.jsx</h1>
   )
 }
 
